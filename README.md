@@ -10,38 +10,55 @@ We will collect all relevant information here in this repo.
 
 More Infos about the 33rd CCC: https://events.ccc.de/congress/2017/wiki/Main_Page
 
-##Follow us on Twitter
+## Follow us on Twitter
 https://twitter.com/ruby_town
 
-##Register for our Assembly at the Congress
-https://events.ccc.de/congress/2017/wiki/Assembly:Rubytown It's a bit tricky: First, you have to create a profile in the wiki and say that you are member of the Rubytown Assembly. After confirming your profile, go back to the assembly page, click on the arrow right of the star and then click "Refresh". Now you should see you name in the member list.
+## Register for our Assembly at the Congress
+https://events.ccc.de/congress/2017/wiki/Assembly:Rubytown It's a bit tricky:
 
-##Buy your ticket
+1. If you don't have a user yet create yourself one
+1. Create a profile in the wiki by going to your user page https://events.ccc.de/congress/2017/wiki/index.php/User:YOUR_USERNAME
+1. Edit the page and add the folling information to it
+
+```
+{{User
+|Speaks language=en - English, de - German
+|Part of=rubytown
+|Has mail contact=
+|Has website=
+|Lives in continent=Europe
+|Lives in country=Germany
+}}
+```
+
+After that to actually see yourself on the assembly page right away you have to hit the ["refresh" link](https://events.ccc.de/congress/2017/wiki/index.php?title=Assembly:Rubytown&action=purge) on the assembly page.
+
+## Buy your ticket
 https://tickets.events.ccc.de/34c3/
 
-##Join the assembly Slack Channel
+## Join the assembly Slack Channel
 We have a public rubytown channel at the Rails Berlin e.V. Slack. Just join to get in touch with all the rubyists:
 http://slack.rubyberlin.org/
 
-##Who will come
+## Who will come
 https://github.com/rubytown/33c3/issues/1
 
-##Who brings what
+## Who brings what
 https://github.com/rubytown/33c3/issues/2
 
-##Travel
+## Travel
 https://github.com/rubytown/33c3/issues/3
 
-##Organise a bus trip together
+## Organise a bus trip together
 https://github.com/rubytown/33c3/issues/11
 
-##Accomodation
+## Accomodation
 https://github.com/rubytown/33c3/issues/4
 
-##Workshops / Self organized Sessions
+## Workshops / Self organized Sessions
 https://github.com/rubytown/33c3/issues/5
 
-##Equipment that is needed
+## Equipment that is needed
 
 - Infrastructure
   - [ ] Powerplugs
@@ -63,7 +80,7 @@ https://github.com/rubytown/33c3/issues/5
 
 Feel free to add other items we need :)
 
-##Promote Ruby Town at your local usergroup
+## Promote Ruby Town at your local usergroup
 https://github.com/rubytown/33c3/issues/13
 
 
