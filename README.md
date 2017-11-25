@@ -8,7 +8,7 @@ There will be a Ruby Town Assembly again! And we want you to join us for some am
 
 We will collect all relevant information here in this repo.
 
-More Infos about the 33rd CCC: https://events.ccc.de/congress/2017/wiki/Main_Page
+More Infos about the 34rd CCC: https://events.ccc.de/congress/2017/wiki/Main_Page
 
 ## Follow us on Twitter
 https://twitter.com/ruby_town
@@ -41,46 +41,45 @@ We have a public rubytown channel at the Rails Berlin e.V. Slack. Just join to g
 http://slack.rubyberlin.org/
 
 ## Who will come
-https://github.com/rubytown/33c3/issues/1
+https://github.com/rubytown/34c3/issues/1
 
 ## Who brings what
-https://github.com/rubytown/33c3/issues/2
+https://github.com/rubytown/34c3/issues/2
 
 ## Travel
-https://github.com/rubytown/33c3/issues/3
-
-## Organise a bus trip together
-https://github.com/rubytown/33c3/issues/11
+https://github.com/rubytown/34c3/issues/3
 
 ## Accomodation
-https://github.com/rubytown/33c3/issues/4
+https://github.com/rubytown/34c3/issues/4
 
 ## Workshops / Self organized Sessions
-https://github.com/rubytown/33c3/issues/5
+https://github.com/rubytown/34c3/issues/5
 
 ## Equipment that is needed
 
 - Infrastructure
-  - [ ] Powerplugs
+  - [ ] Powerplugs (everyone)
   - [ ] Network switch
   - [ ] Long network cables (>10m)
-  - [ ] Network cables
+  - [ ] Network cables (everyone)
 - Coffee
   - [ ] Water boiler
   - [ ] Coffee maker aka Chemex
   - [ ] Grinder
   - [ ] Coffeeee (beans)
   - [ ] Coffee filters
-  - [ ] A mug
+  - [ ] A mug (everyone)
 - Decoration
-  - [ ] Posters
-  - [ ] Holiday lights
-  - [ ] Adhesive tape
-  - [ ] Scissor
+  - [x] Posters (nerdbabe)
+  - [x] Holiday lights (nerdbabe)
+  - [x] Adhesive tape (nerdbabe)
+  - [x] Scissor (nerdbabe)
+- Food
+  - Bring some cookies or sweets for long hacking sessions <3
 
 Feel free to add other items we need :)
 
 ## Promote Ruby Town at your local usergroup
-https://github.com/rubytown/33c3/issues/13
+https://github.com/rubytown/34c3/issues/6
 
 
